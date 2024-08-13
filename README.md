@@ -1,0 +1,1 @@
+This code is for LED chaser with Arduino, which cycles through 12 LEDs connected to pins 2 through 13. This project turns on each LED one by one in sequence and then turns them off in the same sequence.
